@@ -1,0 +1,5 @@
+*.Classpath
+.class
+.project
+.settings
+
